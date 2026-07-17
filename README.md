@@ -13,7 +13,12 @@
 
 <br/>
 
-<a href="mailto:ibrahim.arif@nysonian.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://ibrahimarif.site"><img src="https://img.shields.io/badge/Portfolio-ibrahimarif.site-22c55e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/ibraahimarif/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:ibrahim.arif@nysonian.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=MUHAMMADIBRAHIMARIF1122&label=visitors&color=22c55e&style=flat-square" alt="views"/>
 <img src="https://img.shields.io/badge/focus-AI%20%26%20Automation-0ea5e9?style=flat-square" alt="focus"/>
 <img src="https://img.shields.io/badge/status-always%20shipping-a855f7?style=flat-square" alt="status"/>
@@ -135,6 +140,9 @@ class Ibrahim:
 ```bash
 $ echo "let's automate something great together" && exit 0
 ```
+
+<a href="https://ibrahimarif.site"><img src="https://img.shields.io/badge/🌐_Visit_my_portfolio-ibrahimarif.site-0ea5e9?style=for-the-badge" alt="portfolio"/></a>
+<a href="https://linkedin.com/in/ibraahimarif/"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 
 <img src="https://raw.githubusercontent.com/MUHAMMADIBRAHIMARIF1122/MUHAMMADIBRAHIMARIF1122/main/assets/banner.svg" width="0" height="0" alt=""/>
 
