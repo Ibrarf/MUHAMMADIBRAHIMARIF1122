@@ -1,150 +1,141 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          BANNER / HEADER                          -->
+<!--        CUSTOM ANIMATED BANNER (hand-built SVG in this repo)       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<a href="https://github.com/MUHAMMADIBRAHIMARIF1122">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0ea5e9&height=220&section=header&text=Muhammad%20Ibrahim%20Arif&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20clean%2C%20fast%20web%20apps&descAlignY=58&descSize=18" width="100%" alt="header"/>
-</a>
+<img src="https://raw.githubusercontent.com/MUHAMMADIBRAHIMARIF1122/MUHAMMADIBRAHIMARIF1122/main/assets/banner.svg" width="100%" alt="Muhammad Ibrahim Arif — AI & Automation Engineer"/>
 
-<!-- Typing animation -->
+<!-- Typing sub-line -->
 <a href="https://github.com/MUHAMMADIBRAHIMARIF1122">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;TypeScript+%2B+JavaScript+enjoyer;I+turn+ideas+into+shipped+products;Always+building%2C+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=I+build+AI+agents+that+do+real+work;I+automate+the+boring+stuff+away;LLMs+%2B+pipelines+%2B+clean+code;Turning+manual+workflows+into+running+systems" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Social / contact badges -->
-<a href="mailto:ibrahim.arif@nysonian.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/MUHAMMADIBRAHIMARIF1122">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=MUHAMMADIBRAHIMARIF1122&label=Profile%20Views&color=22c55e&style=for-the-badge" alt="Profile views"/>
+<a href="mailto:ibrahim.arif@nysonian.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=MUHAMMADIBRAHIMARIF1122&label=visitors&color=22c55e&style=flat-square" alt="views"/>
+<img src="https://img.shields.io/badge/focus-AI%20%26%20Automation-0ea5e9?style=flat-square" alt="focus"/>
+<img src="https://img.shields.io/badge/status-always%20shipping-a855f7?style=flat-square" alt="status"/>
 
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                            ABOUT ME                               -->
+<!--                          $ whoami                                 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 👋 About Me
+## `$ whoami`
 
-```typescript
-const ibrahim = {
-  role: "Full-Stack Developer",
-  company: "Nysonian",
-  currentFocus: ["Web apps", "B2B tools", "Automations"],
-  languages: ["TypeScript", "JavaScript"],
-  learning: "Whatever ships the product faster",
-  motto: "Make it work, make it clean, make it fast.",
-};
+```python
+class Ibrahim:
+    def __init__(self):
+        self.role     = "AI & Automation Engineer"
+        self.company  = "Nysonian"
+        self.builds   = ["AI agents", "LLM apps", "automation pipelines", "data workflows"]
+        self.turns    = "manual, repetitive tasks"  # -> into automated systems
+        self.believes = "if you do it twice, script it. if it thinks, let the model think."
+
+    def current_focus(self):
+        return ["LLM-powered agents", "workflow automation", "ETL / data pipelines"]
 ```
 
-- 🔭 I build **web applications**, **B2B tools**, and **marketing/automation apps**.
-- 🌱 Currently sharpening my skills in **TypeScript**, modern frontend, and backend automation.
-- 💬 Ask me about **JavaScript / TypeScript**, full-stack architecture, and shipping side projects.
-- ⚡ Fun fact: I'd rather refactor a function three times than leave it ugly once.
+> I design and ship **AI agents and automation systems** — think LLM-driven workflows, chatbots,
+> invoice/report pipelines, scraping + ETL into databases, and the glue that makes it all run on its own.
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                            TECH STACK                             -->
+<!--                          $ cat skills                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🛠️ Tech Stack
+## `$ cat skills.json`
 
+**🤖 AI / LLM**
+<p>
+<img src="https://img.shields.io/badge/LLM_APIs-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Agents-0ea5e9?style=for-the-badge&logo=probot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-a855f7?style=for-the-badge&logo=abstract&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chatbots-22c55e?style=for-the-badge&logo=chatbot&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-ff6b35?style=for-the-badge&logo=databricks&logoColor=white"/>
+</p>
+
+**⚙️ Automation / Data**
+<p>
+<img src="https://img.shields.io/badge/Workflow_Automation-4f46e5?style=for-the-badge&logo=zapier&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web_Scraping_/_ETL-14b8a6?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cron_/_Schedulers-6b7280?style=for-the-badge&logo=clockify&logoColor=white"/>
+</p>
+
+**🧰 Languages & Tools**
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,html,css,git,github,vscode,vercel,mongodb,postgres,figma&perline=8" alt="tech stack"/>
-
+<img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,react,express,mongodb,postgres,aws,docker,git,github,vscode,vercel&perline=7" alt="tools"/>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          GITHUB STATS                             -->
+<!--                          $ ./stats                                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📊 GitHub Stats
+## `$ ./run --stats`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MUHAMMADIBRAHIMARIF1122&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=22c55e&icon_color=0ea5e9&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMADIBRAHIMARIF1122&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=22c55e&text_color=c9d1d9&langs_count=8" alt="top langs"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MUHAMMADIBRAHIMARIF1122&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=22c55e&icon_color=0ea5e9&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="stats"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMADIBRAHIMARIF1122&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=22c55e&text_color=c9d1d9&langs_count=8" alt="langs"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MUHAMMADIBRAHIMARIF1122&theme=react&hide_border=true&background=0D1117&stroke=0ea5e9&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" alt="streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MUHAMMADIBRAHIMARIF1122&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=0ea5e9&ring=22c55e&fire=a855f7&currStreakLabel=22c55e" alt="streak"/>
 
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                            TROPHIES                               -->
+<!--                        $ ls projects/                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MUHAMMADIBRAHIMARIF1122&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        CONTRIBUTION GRAPH                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MUHAMMADIBRAHIMARIF1122&theme=react-dark&hide_border=true&bg_color=0D1117&color=22c55e&line=0ea5e9&point=ffffff&area=true" alt="activity graph" width="100%"/>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        FEATURED PROJECTS                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🚀 Featured Projects
+## `$ ls -la projects/`
 
 <div align="center">
 
 <a href="https://github.com/MUHAMMADIBRAHIMARIF1122/B2B-NYSONIAN">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MUHAMMADIBRAHIMARIF1122&repo=B2B-NYSONIAN&theme=react&hide_border=true&bg_color=0D1117&title_color=22c55e&icon_color=0ea5e9&text_color=c9d1d9" alt="B2B-NYSONIAN"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MUHAMMADIBRAHIMARIF1122&repo=B2B-NYSONIAN&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=22c55e&icon_color=0ea5e9&text_color=c9d1d9" alt="B2B-NYSONIAN"/>
 </a>
 <a href="https://github.com/MUHAMMADIBRAHIMARIF1122/Real_portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MUHAMMADIBRAHIMARIF1122&repo=Real_portfolio&theme=react&hide_border=true&bg_color=0D1117&title_color=22c55e&icon_color=0ea5e9&text_color=c9d1d9" alt="Real_portfolio"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MUHAMMADIBRAHIMARIF1122&repo=Real_portfolio&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=22c55e&icon_color=0ea5e9&text_color=c9d1d9" alt="Real_portfolio"/>
 </a>
 <a href="https://github.com/MUHAMMADIBRAHIMARIF1122/Drumhierny-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MUHAMMADIBRAHIMARIF1122&repo=Drumhierny-website&theme=react&hide_border=true&bg_color=0D1117&title_color=22c55e&icon_color=0ea5e9&text_color=c9d1d9" alt="Drumhierny-website"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MUHAMMADIBRAHIMARIF1122&repo=Drumhierny-website&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=22c55e&icon_color=0ea5e9&text_color=c9d1d9" alt="Drumhierny-website"/>
 </a>
 
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        SNAKE ANIMATION                            -->
+<!--                       $ ./snake --run                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🐍 Watch My Contributions Get Eaten
+## `$ ./contributions --animate`
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MUHAMMADIBRAHIMARIF1122/MUHAMMADIBRAHIMARIF1122/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MUHAMMADIBRAHIMARIF1122/MUHAMMADIBRAHIMARIF1122/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/MUHAMMADIBRAHIMARIF1122/MUHAMMADIBRAHIMARIF1122/output/github-snake-dark.svg" width="100%" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/MUHAMMADIBRAHIMARIF1122/MUHAMMADIBRAHIMARIF1122/output/github-snake.svg" width="100%" />
 </picture>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MUHAMMADIBRAHIMARIF1122&theme=react-dark&hide_border=true&bg_color=0D1117&color=22c55e&line=0ea5e9&point=ffffff&area=true" alt="activity" width="100%"/>
 
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                             FOOTER                                -->
+<!--                             EOF                                   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 💚 Thanks for stopping by — let's build something great.
+```bash
+$ echo "let's automate something great together" && exit 0
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://raw.githubusercontent.com/MUHAMMADIBRAHIMARIF1122/MUHAMMADIBRAHIMARIF1122/main/assets/banner.svg" width="0" height="0" alt=""/>
 
 </div>
