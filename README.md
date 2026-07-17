@@ -102,6 +102,42 @@ const ibrahim = {
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        FEATURED PROJECTS                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/MUHAMMADIBRAHIMARIF1122/B2B-NYSONIAN">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MUHAMMADIBRAHIMARIF1122&repo=B2B-NYSONIAN&theme=react&hide_border=true&bg_color=0D1117&title_color=22c55e&icon_color=0ea5e9&text_color=c9d1d9" alt="B2B-NYSONIAN"/>
+</a>
+<a href="https://github.com/MUHAMMADIBRAHIMARIF1122/Real_portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MUHAMMADIBRAHIMARIF1122&repo=Real_portfolio&theme=react&hide_border=true&bg_color=0D1117&title_color=22c55e&icon_color=0ea5e9&text_color=c9d1d9" alt="Real_portfolio"/>
+</a>
+<a href="https://github.com/MUHAMMADIBRAHIMARIF1122/Drumhierny-website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MUHAMMADIBRAHIMARIF1122&repo=Drumhierny-website&theme=react&hide_border=true&bg_color=0D1117&title_color=22c55e&icon_color=0ea5e9&text_color=c9d1d9" alt="Drumhierny-website"/>
+</a>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        SNAKE ANIMATION                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MUHAMMADIBRAHIMARIF1122/MUHAMMADIBRAHIMARIF1122/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MUHAMMADIBRAHIMARIF1122/MUHAMMADIBRAHIMARIF1122/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/MUHAMMADIBRAHIMARIF1122/MUHAMMADIBRAHIMARIF1122/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                             FOOTER                                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
